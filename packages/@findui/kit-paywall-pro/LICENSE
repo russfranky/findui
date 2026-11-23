@@ -1,0 +1,21 @@
+FindUI Standard Licence v1
+
+Honest Paywall Kit, by Devon Okafor. This kit is published under the
+FindUI Standard Licence, the one licence for every FindUI kit. There
+are no per-kit licence variants.
+
+1. Retrieval: agents and tools may retrieve and cite this kit through
+   FindUI, and builders may use it as design reference.
+2. Eval: this kit may be included in FindUI eval sets and benchmarks.
+3. Implementation: you may implement designs based on this kit in
+   your own product.
+4. Training is never permitted. No one may use this kit, its
+   components, or its flow data to train or fine-tune a model, at any
+   price. No opt-in exists, and no separate agreement can grant it.
+5. Attribution is a condition of this licence. Credit the creator at
+   the attribution URL in ATTRIBUTION.md wherever the kit is used.
+6. No redistribution of the kit itself as a standalone package or
+   template, outside FindUI channels.
+
+The creator may take the kit down through FindUI. Takedown stops new
+distribution; uses already made under this licence stay licensed.
